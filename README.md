@@ -15,6 +15,7 @@
 | [0135-candy](https://github.com/LakshmiYV/Leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/LakshmiYV/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/LakshmiYV/Leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/LakshmiYV/Leetcode/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/LakshmiYV/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/LakshmiYV/Leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/LakshmiYV/Leetcode/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/LakshmiYV/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/LakshmiYV/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
