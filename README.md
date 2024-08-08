@@ -15,6 +15,7 @@
 | [0135-candy](https://github.com/LakshmiYV/Leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/LakshmiYV/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/LakshmiYV/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/LakshmiYV/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/LakshmiYV/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LakshmiYV/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/LakshmiYV/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
