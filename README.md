@@ -100,6 +100,7 @@
 | [0010-regular-expression-matching](https://github.com/LakshmiYV/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/LakshmiYV/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LakshmiYV/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/LakshmiYV/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/LakshmiYV/Leetcode/tree/master/0058-length-of-last-word) |
 ## Recursion
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LakshmiYV/Leetcode/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/LakshmiYV/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
