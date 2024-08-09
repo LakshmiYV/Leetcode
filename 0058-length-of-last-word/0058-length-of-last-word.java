@@ -1,4 +1,4 @@
-/*
+
 class Solution {  
     public int lengthOfLastWord(String s) {  
         // Trim the string to remove any trailing spaces  
@@ -16,9 +16,9 @@ class Solution {
         return s.length() - lastSpaceIndex - 1;  
     }  
 }
-*/
 
 
+/*
 class Solution {
     public int lengthOfLastWord(String s) {
         // Trim any trailing spaces
@@ -31,3 +31,4 @@ class Solution {
         return words[words.length - 1].length();
     }
 }
+*/
