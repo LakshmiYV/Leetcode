@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/LakshmiYV/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/LakshmiYV/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/LakshmiYV/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LakshmiYV/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/LakshmiYV/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/LakshmiYV/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/LakshmiYV/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LakshmiYV/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -97,6 +99,7 @@
 | [0005-longest-palindromic-substring](https://github.com/LakshmiYV/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/LakshmiYV/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/LakshmiYV/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/LakshmiYV/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
