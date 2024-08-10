@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LakshmiYV/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/LakshmiYV/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/LakshmiYV/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/LakshmiYV/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LakshmiYV/Leetcode/tree/master/0013-roman-to-integer) |
