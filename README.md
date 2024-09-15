@@ -65,6 +65,7 @@
 | [0169-majority-element](https://github.com/LakshmiYV/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LakshmiYV/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/LakshmiYV/Leetcode/tree/master/0383-ransom-note) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LakshmiYV/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/LakshmiYV/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LakshmiYV/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LakshmiYV/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/LakshmiYV/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LakshmiYV/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Stack
 |  |
 | ------- |
@@ -193,4 +196,8 @@
 | [0054-spiral-matrix](https://github.com/LakshmiYV/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/LakshmiYV/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/LakshmiYV/Leetcode/tree/master/0289-game-of-life) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LakshmiYV/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 <!---LeetCode Topics End-->
