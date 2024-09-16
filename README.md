@@ -29,6 +29,7 @@
 | [0274-h-index](https://github.com/LakshmiYV/Leetcode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/LakshmiYV/Leetcode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LakshmiYV/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LakshmiYV/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@
 | [0088-merge-sorted-array](https://github.com/LakshmiYV/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/LakshmiYV/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/LakshmiYV/Leetcode/tree/master/0274-h-index) |
+| [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0048-rotate-image](https://github.com/LakshmiYV/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/LakshmiYV/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LakshmiYV/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +144,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/LakshmiYV/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
+| [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LakshmiYV/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Recursion
 |  |
