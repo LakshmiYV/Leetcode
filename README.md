@@ -89,6 +89,7 @@
 | [0013-roman-to-integer](https://github.com/LakshmiYV/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/LakshmiYV/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/LakshmiYV/Leetcode/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LakshmiYV/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
@@ -102,6 +103,7 @@
 | [0055-jump-game](https://github.com/LakshmiYV/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LakshmiYV/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LakshmiYV/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -148,6 +150,7 @@
 | [0125-valid-palindrome](https://github.com/LakshmiYV/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/LakshmiYV/Leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0383-ransom-note](https://github.com/LakshmiYV/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -157,6 +160,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/LakshmiYV/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -217,4 +221,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LakshmiYV/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
