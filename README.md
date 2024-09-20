@@ -150,6 +150,7 @@
 | [0125-valid-palindrome](https://github.com/LakshmiYV/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/LakshmiYV/Leetcode/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/LakshmiYV/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0383-ransom-note](https://github.com/LakshmiYV/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/LakshmiYV/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -225,4 +227,12 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/LakshmiYV/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/LakshmiYV/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
