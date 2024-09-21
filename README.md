@@ -187,6 +187,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/LakshmiYV/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/LakshmiYV/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -244,4 +245,8 @@
 | [0214-shortest-palindrome](https://github.com/LakshmiYV/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/LakshmiYV/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [2510-maximum-deletions-on-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/LakshmiYV/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
