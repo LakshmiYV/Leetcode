@@ -31,6 +31,7 @@
 | [0289-game-of-life](https://github.com/LakshmiYV/Leetcode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LakshmiYV/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/LakshmiYV/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LakshmiYV/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/LakshmiYV/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -86,6 +87,7 @@
 | [0169-majority-element](https://github.com/LakshmiYV/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/LakshmiYV/Leetcode/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LakshmiYV/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/LakshmiYV/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/LakshmiYV/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LakshmiYV/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/LakshmiYV/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/LakshmiYV/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2510-maximum-deletions-on-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/LakshmiYV/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -196,6 +199,7 @@
 | [0014-longest-common-prefix](https://github.com/LakshmiYV/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/LakshmiYV/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/LakshmiYV/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/LakshmiYV/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/LakshmiYV/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
