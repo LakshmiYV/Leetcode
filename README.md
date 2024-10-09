@@ -65,6 +65,7 @@
 | [0088-merge-sorted-array](https://github.com/LakshmiYV/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/LakshmiYV/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/LakshmiYV/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/LakshmiYV/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/LakshmiYV/Leetcode/tree/master/0274-h-index) |
 | [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
 ## Hash Table
@@ -78,6 +79,7 @@
 | [0076-minimum-window-substring](https://github.com/LakshmiYV/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/LakshmiYV/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/LakshmiYV/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/LakshmiYV/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LakshmiYV/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LakshmiYV/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/LakshmiYV/Leetcode/tree/master/0383-ransom-note) |
@@ -179,6 +181,7 @@
 | [0205-isomorphic-strings](https://github.com/LakshmiYV/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/LakshmiYV/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/LakshmiYV/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LakshmiYV/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/LakshmiYV/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
