@@ -41,6 +41,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/LakshmiYV/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/LakshmiYV/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/LakshmiYV/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LakshmiYV/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/LakshmiYV/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LakshmiYV/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -64,6 +65,7 @@
 | [0202-happy-number](https://github.com/LakshmiYV/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LakshmiYV/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LakshmiYV/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0242-valid-anagram](https://github.com/LakshmiYV/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/LakshmiYV/Leetcode/tree/master/0274-h-index) |
 | [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LakshmiYV/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +154,7 @@
 | [0179-largest-number](https://github.com/LakshmiYV/Leetcode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LakshmiYV/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LakshmiYV/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LakshmiYV/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Database
 |  |
 | ------- |
@@ -226,6 +230,7 @@
 | [0238-product-of-array-except-self](https://github.com/LakshmiYV/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/LakshmiYV/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LakshmiYV/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LakshmiYV/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Stack
 |  |
 | ------- |
@@ -341,4 +346,5 @@
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/LakshmiYV/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LakshmiYV/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
