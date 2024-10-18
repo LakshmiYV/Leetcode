@@ -42,6 +42,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/LakshmiYV/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/LakshmiYV/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/LakshmiYV/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LakshmiYV/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LakshmiYV/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/LakshmiYV/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LakshmiYV/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0022-generate-parentheses) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LakshmiYV/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LakshmiYV/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LakshmiYV/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LakshmiYV/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
@@ -361,4 +364,8 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/LakshmiYV/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LakshmiYV/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/LakshmiYV/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LakshmiYV/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
