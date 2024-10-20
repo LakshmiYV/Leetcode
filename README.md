@@ -216,6 +216,7 @@
 | [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LakshmiYV/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LakshmiYV/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/LakshmiYV/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/LakshmiYV/Leetcode/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LakshmiYV/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/LakshmiYV/Leetcode/tree/master/1508-longest-happy-prefix) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/LakshmiYV/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/LakshmiYV/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Backtracking
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [0042-trapping-rain-water](https://github.com/LakshmiYV/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LakshmiYV/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/LakshmiYV/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/LakshmiYV/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/LakshmiYV/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LakshmiYV/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/LakshmiYV/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
