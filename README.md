@@ -45,6 +45,7 @@
 | [0859-design-circular-deque](https://github.com/LakshmiYV/Leetcode/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/LakshmiYV/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LakshmiYV/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/LakshmiYV/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/LakshmiYV/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/LakshmiYV/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/LakshmiYV/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -159,6 +160,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LakshmiYV/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/LakshmiYV/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2510-maximum-deletions-on-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
@@ -324,6 +326,7 @@
 | [0054-spiral-matrix](https://github.com/LakshmiYV/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/LakshmiYV/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/LakshmiYV/Leetcode/tree/master/0289-game-of-life) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/LakshmiYV/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
