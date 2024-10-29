@@ -57,6 +57,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/LakshmiYV/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/LakshmiYV/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/LakshmiYV/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/LakshmiYV/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
@@ -167,6 +168,7 @@
 | [2510-maximum-deletions-on-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2586-longest-square-streak-in-an-array](https://github.com/LakshmiYV/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/LakshmiYV/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 | [0073-set-matrix-zeroes](https://github.com/LakshmiYV/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/LakshmiYV/Leetcode/tree/master/0289-game-of-life) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/LakshmiYV/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/LakshmiYV/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
