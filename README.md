@@ -205,6 +205,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/LakshmiYV/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LakshmiYV/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/LakshmiYV/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/LakshmiYV/Leetcode/tree/master/0729-my-calendar-i) |
@@ -288,6 +289,7 @@
 | [0020-valid-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LakshmiYV/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/LakshmiYV/Leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/LakshmiYV/Leetcode/tree/master/0155-min-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LakshmiYV/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/LakshmiYV/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/LakshmiYV/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
