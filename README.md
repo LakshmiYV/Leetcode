@@ -42,6 +42,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshmiYV/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/LakshmiYV/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/LakshmiYV/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/LakshmiYV/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/LakshmiYV/Leetcode/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/LakshmiYV/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LakshmiYV/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -80,6 +81,7 @@
 | [0189-rotate-array](https://github.com/LakshmiYV/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LakshmiYV/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
+| [0841-shortest-distance-to-a-character](https://github.com/LakshmiYV/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LakshmiYV/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LakshmiYV/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
@@ -247,6 +249,7 @@
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/LakshmiYV/Leetcode/tree/master/0812-rotate-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/LakshmiYV/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LakshmiYV/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LakshmiYV/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/LakshmiYV/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
