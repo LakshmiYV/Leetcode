@@ -62,6 +62,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/LakshmiYV/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/LakshmiYV/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/LakshmiYV/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/LakshmiYV/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/LakshmiYV/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/LakshmiYV/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -164,6 +165,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/LakshmiYV/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/LakshmiYV/Leetcode/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/LakshmiYV/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LakshmiYV/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LakshmiYV/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/LakshmiYV/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/LakshmiYV/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Database
 |  |
 | ------- |
@@ -359,6 +362,7 @@
 | [0731-my-calendar-ii](https://github.com/LakshmiYV/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/LakshmiYV/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/LakshmiYV/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/LakshmiYV/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -466,4 +470,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/LakshmiYV/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/LakshmiYV/Leetcode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
