@@ -452,6 +452,7 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/LakshmiYV/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0754-cracking-the-safe](https://github.com/LakshmiYV/Leetcode/tree/master/0754-cracking-the-safe) |
 | [0988-flip-equivalent-binary-trees](https://github.com/LakshmiYV/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/LakshmiYV/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2201-valid-arrangement-of-pairs](https://github.com/LakshmiYV/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -531,6 +532,7 @@
 ## Graph
 |  |
 | ------- |
+| [0754-cracking-the-safe](https://github.com/LakshmiYV/Leetcode/tree/master/0754-cracking-the-safe) |
 | [2201-valid-arrangement-of-pairs](https://github.com/LakshmiYV/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshmiYV/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/LakshmiYV/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -548,5 +550,6 @@
 ## Eulerian Circuit
 |  |
 | ------- |
+| [0754-cracking-the-safe](https://github.com/LakshmiYV/Leetcode/tree/master/0754-cracking-the-safe) |
 | [2201-valid-arrangement-of-pairs](https://github.com/LakshmiYV/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
