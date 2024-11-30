@@ -451,6 +451,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/LakshmiYV/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/LakshmiYV/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0754-cracking-the-safe](https://github.com/LakshmiYV/Leetcode/tree/master/0754-cracking-the-safe) |
 | [0988-flip-equivalent-binary-trees](https://github.com/LakshmiYV/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -532,6 +533,7 @@
 ## Graph
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/LakshmiYV/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0754-cracking-the-safe](https://github.com/LakshmiYV/Leetcode/tree/master/0754-cracking-the-safe) |
 | [2201-valid-arrangement-of-pairs](https://github.com/LakshmiYV/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/LakshmiYV/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -550,6 +552,7 @@
 ## Eulerian Circuit
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/LakshmiYV/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0754-cracking-the-safe](https://github.com/LakshmiYV/Leetcode/tree/master/0754-cracking-the-safe) |
 | [2201-valid-arrangement-of-pairs](https://github.com/LakshmiYV/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
