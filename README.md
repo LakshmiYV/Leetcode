@@ -42,6 +42,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshmiYV/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/LakshmiYV/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/LakshmiYV/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/LakshmiYV/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/LakshmiYV/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0841-shortest-distance-to-a-character](https://github.com/LakshmiYV/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/LakshmiYV/Leetcode/tree/master/0859-design-circular-deque) |
@@ -138,6 +139,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LakshmiYV/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshmiYV/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/LakshmiYV/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/LakshmiYV/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/LakshmiYV/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/LakshmiYV/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -253,6 +255,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LakshmiYV/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshmiYV/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/LakshmiYV/Leetcode/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/LakshmiYV/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LakshmiYV/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/LakshmiYV/Leetcode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/LakshmiYV/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -373,6 +376,7 @@
 | [0042-trapping-rain-water](https://github.com/LakshmiYV/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/LakshmiYV/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/LakshmiYV/Leetcode/tree/master/0155-min-stack) |
+| [0780-max-chunks-to-make-sorted](https://github.com/LakshmiYV/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LakshmiYV/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/LakshmiYV/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/LakshmiYV/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -385,6 +389,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LakshmiYV/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/LakshmiYV/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/LakshmiYV/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/LakshmiYV/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/LakshmiYV/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
