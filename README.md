@@ -38,6 +38,7 @@
 | [0289-game-of-life](https://github.com/LakshmiYV/Leetcode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LakshmiYV/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LakshmiYV/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0494-target-sum](https://github.com/LakshmiYV/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshmiYV/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/LakshmiYV/Leetcode/tree/master/0729-my-calendar-i) |
@@ -235,6 +236,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LakshmiYV/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/LakshmiYV/Leetcode/tree/master/0494-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/LakshmiYV/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/LakshmiYV/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/LakshmiYV/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -357,6 +359,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/LakshmiYV/Leetcode/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/LakshmiYV/Leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/LakshmiYV/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LakshmiYV/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
