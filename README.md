@@ -122,6 +122,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/LakshmiYV/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/LakshmiYV/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/LakshmiYV/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LakshmiYV/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [0670-maximum-swap](https://github.com/LakshmiYV/Leetcode/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/LakshmiYV/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/LakshmiYV/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LakshmiYV/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/LakshmiYV/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/LakshmiYV/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LakshmiYV/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greedy
 |  |
 | ------- |
@@ -732,6 +735,7 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/LakshmiYV/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LakshmiYV/Leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Graph
 |  |
 | ------- |
