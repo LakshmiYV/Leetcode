@@ -221,6 +221,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/LakshmiYV/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/LakshmiYV/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/LakshmiYV/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2487-optimal-partition-of-string](https://github.com/LakshmiYV/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/LakshmiYV/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/LakshmiYV/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/LakshmiYV/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -320,6 +321,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LakshmiYV/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/LakshmiYV/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/LakshmiYV/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2487-optimal-partition-of-string](https://github.com/LakshmiYV/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LakshmiYV/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/LakshmiYV/Leetcode/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/LakshmiYV/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -404,6 +406,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/LakshmiYV/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/LakshmiYV/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2487-optimal-partition-of-string](https://github.com/LakshmiYV/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/LakshmiYV/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2510-maximum-deletions-on-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2580-circular-sentence](https://github.com/LakshmiYV/Leetcode/tree/master/2580-circular-sentence) |
