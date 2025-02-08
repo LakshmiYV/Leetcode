@@ -8,7 +8,7 @@ class NumberContainers {
         res = new HashMap<>();
         index_val = new HashMap<>();
     }
-    
+      
     public void change(int index, int number) {
         if (index_val.containsKey(index)) {
             int prevNum = index_val.get(index);
@@ -25,3 +25,4 @@ class NumberContainers {
         return pq.isEmpty() ? -1 : pq.peek();
     }
 }
+
