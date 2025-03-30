@@ -178,6 +178,7 @@
 | [0189-rotate-array](https://github.com/LakshmiYV/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LakshmiYV/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/LakshmiYV/Leetcode/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/LakshmiYV/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/LakshmiYV/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/LakshmiYV/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -250,6 +251,7 @@
 | [0383-ransom-note](https://github.com/LakshmiYV/Leetcode/tree/master/0383-ransom-note) |
 | [0432-all-oone-data-structure](https://github.com/LakshmiYV/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshmiYV/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/LakshmiYV/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LakshmiYV/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/LakshmiYV/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -389,6 +391,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LakshmiYV/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LakshmiYV/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/LakshmiYV/Leetcode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/LakshmiYV/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/LakshmiYV/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LakshmiYV/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/LakshmiYV/Leetcode/tree/master/1304-longest-happy-string) |
@@ -462,6 +465,7 @@
 | [0383-ransom-note](https://github.com/LakshmiYV/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/LakshmiYV/Leetcode/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/LakshmiYV/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0768-partition-labels](https://github.com/LakshmiYV/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/LakshmiYV/Leetcode/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/LakshmiYV/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LakshmiYV/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
