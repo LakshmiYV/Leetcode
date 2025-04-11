@@ -352,6 +352,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/LakshmiYV/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/LakshmiYV/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/LakshmiYV/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/LakshmiYV/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/LakshmiYV/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/LakshmiYV/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/LakshmiYV/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -856,6 +857,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LakshmiYV/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/LakshmiYV/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Tree
 |  |
 | ------- |
