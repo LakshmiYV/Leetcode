@@ -356,6 +356,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/LakshmiYV/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/LakshmiYV/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshmiYV/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/LakshmiYV/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/LakshmiYV/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/LakshmiYV/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/LakshmiYV/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -395,6 +396,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/LakshmiYV/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/LakshmiYV/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/LakshmiYV/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/LakshmiYV/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2510-maximum-deletions-on-a-string](https://github.com/LakshmiYV/Leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2554-minimum-total-distance-traveled](https://github.com/LakshmiYV/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/LakshmiYV/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -951,6 +953,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/LakshmiYV/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/LakshmiYV/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/LakshmiYV/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/LakshmiYV/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1016,4 +1019,8 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/LakshmiYV/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/LakshmiYV/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
